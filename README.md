@@ -26,7 +26,7 @@ x_note is a powerful open-source diary and document recording application design
 
 ## 开源协议 | License
 
-本项目采用 Apache 2.0 协议，欢迎自由使用和贡献。
+本项目采用 GPL 开源协议，欢迎自由使用和贡献。
 
-This project is licensed under the Apache 2.0 License. Contributions are welcome!
+This project is licensed under the GPL License. Contributions are welcome!
 
